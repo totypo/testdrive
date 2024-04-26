@@ -8,7 +8,7 @@ longName: students
 name: Students
 penaltyLength: 22
 penaltyLowerBound: 8
-price: 4112
+price: 3660
 sprite:
   filename: cargoes/students.png
   left: 0
