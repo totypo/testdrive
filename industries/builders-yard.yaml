@@ -48,9 +48,9 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
+- LIME
 - CMNT
 - GLAS
-- LIME
 - PIPE
 - SAND
 - STSE
