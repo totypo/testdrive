@@ -6,8 +6,8 @@ id: 5
 label: STUD
 longName: students
 name: Students
-penaltyLength: 255
-penaltyLowerBound: 0
+penaltyLength: 247
+penaltyLowerBound: 8
 price: 4112
 sprite:
   filename: cargoes/students.png
