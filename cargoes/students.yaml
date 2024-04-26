@@ -6,7 +6,7 @@ id: 5
 label: STUD
 longName: students
 name: Students
-penaltyLength: 247
+penaltyLength: 22
 penaltyLowerBound: 8
 price: 4112
 sprite:
