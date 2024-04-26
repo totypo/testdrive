@@ -1,17 +1,17 @@
 abbreviation: NE
 available: false
-classes: 32
+classes: 1
 colour: 1
 id: 5
 label: STUD
-longName: 'new cargo #5'
-name: 'New Cargo #5'
+longName: students
+name: Students
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/new-cargo-5.png
+  filename: cargoes/students.png
   left: 0
   top: 0
-unitName: Items
-weight: 16
+unitName: Passengers
+weight: 1
